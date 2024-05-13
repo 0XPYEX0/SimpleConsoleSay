@@ -2,3 +2,4 @@ name: SimpleConsoleSay
 version: '${version}'
 main: me.xpyex.plugin.simpleconsolesay.bukkit.SimpleConsoleSay
 authors: [ XPYEX ]
+api-version: 1.13
