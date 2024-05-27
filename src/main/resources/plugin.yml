@@ -3,3 +3,8 @@ version: '${version}'
 main: me.xpyex.plugin.simpleconsolesay.bukkit.SimpleConsoleSay
 authors: [ XPYEX ]
 api-version: 1.13
+commands:
+  SimpleConsoleSay:
+    aliases:
+      - ConsoleSay
+    description: "A command"
